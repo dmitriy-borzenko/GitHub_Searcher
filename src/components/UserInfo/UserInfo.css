@@ -1,0 +1,19 @@
+.img_avatar {
+  display: block;
+  height: 90px;
+  width: 90px;
+  border: 4px solid #0ad4eb;
+  border-radius: 50%;
+  transition: all 1s ease;
+  margin-right: 20px;
+}
+
+.img_avatar:hover {
+  transform: scale(1.1);
+}
+
+.container_main a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}

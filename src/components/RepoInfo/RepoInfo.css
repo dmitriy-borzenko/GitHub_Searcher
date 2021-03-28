@@ -1,0 +1,9 @@
+.repo_item {
+  display: flex;
+  flex-direction: column;
+  line-height: 0.1;
+}
+
+.container_main a:hover {
+  color: yellowgreen;
+}
