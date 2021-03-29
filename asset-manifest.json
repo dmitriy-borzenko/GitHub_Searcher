@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dmitriy-borzenko/GitHub_Searcher/static/css/main.e8af3ec6.chunk.css",
-    "main.js": "/dmitriy-borzenko/GitHub_Searcher/static/js/main.0d2513e3.chunk.js",
-    "main.js.map": "/dmitriy-borzenko/GitHub_Searcher/static/js/main.0d2513e3.chunk.js.map",
-    "runtime-main.js": "/dmitriy-borzenko/GitHub_Searcher/static/js/runtime-main.5794a921.js",
-    "runtime-main.js.map": "/dmitriy-borzenko/GitHub_Searcher/static/js/runtime-main.5794a921.js.map",
-    "static/js/2.342e9280.chunk.js": "/dmitriy-borzenko/GitHub_Searcher/static/js/2.342e9280.chunk.js",
-    "static/js/2.342e9280.chunk.js.map": "/dmitriy-borzenko/GitHub_Searcher/static/js/2.342e9280.chunk.js.map",
-    "index.html": "/dmitriy-borzenko/GitHub_Searcher/index.html",
-    "static/css/main.e8af3ec6.chunk.css.map": "/dmitriy-borzenko/GitHub_Searcher/static/css/main.e8af3ec6.chunk.css.map",
-    "static/js/2.342e9280.chunk.js.LICENSE.txt": "/dmitriy-borzenko/GitHub_Searcher/static/js/2.342e9280.chunk.js.LICENSE.txt",
-    "static/media/logo.f878574a.png": "/dmitriy-borzenko/GitHub_Searcher/static/media/logo.f878574a.png"
+    "main.css": "/Github_searcher/static/css/main.e8af3ec6.chunk.css",
+    "main.js": "/Github_searcher/static/js/main.0d2513e3.chunk.js",
+    "main.js.map": "/Github_searcher/static/js/main.0d2513e3.chunk.js.map",
+    "runtime-main.js": "/Github_searcher/static/js/runtime-main.0c801328.js",
+    "runtime-main.js.map": "/Github_searcher/static/js/runtime-main.0c801328.js.map",
+    "static/js/2.342e9280.chunk.js": "/Github_searcher/static/js/2.342e9280.chunk.js",
+    "static/js/2.342e9280.chunk.js.map": "/Github_searcher/static/js/2.342e9280.chunk.js.map",
+    "index.html": "/Github_searcher/index.html",
+    "static/css/main.e8af3ec6.chunk.css.map": "/Github_searcher/static/css/main.e8af3ec6.chunk.css.map",
+    "static/js/2.342e9280.chunk.js.LICENSE.txt": "/Github_searcher/static/js/2.342e9280.chunk.js.LICENSE.txt",
+    "static/media/logo.f878574a.png": "/Github_searcher/static/media/logo.f878574a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5794a921.js",
+    "static/js/runtime-main.0c801328.js",
     "static/js/2.342e9280.chunk.js",
     "static/css/main.e8af3ec6.chunk.css",
     "static/js/main.0d2513e3.chunk.js"
